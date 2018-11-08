@@ -3,8 +3,8 @@ from distutils.core import setup
 setup(
     name='POC_Frame_Images',
     version='0.1.0',
-    author='T K Sourab',
-    author_email='sourabhtk37@gmail.com',
+    author='Anubhuti Bharil',
+    author_email='anu7bharil@gmail.com',
     packages=['solution'],
     url='http://pypi.python.org/pypi/TowelStuff/',
     license='LICENSE.txt',
